@@ -31,4 +31,10 @@ html {
   #yellow {
     background: yellow;
   }
+
+  nav{
+    margin-top: 15px;
+    align-items: center;
+    text-align: center;
+  }
   
